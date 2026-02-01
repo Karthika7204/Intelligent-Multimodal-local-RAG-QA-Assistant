@@ -21,16 +21,16 @@ A **local Multimodal Retrieval-Augmented Generation (RAG) system** that enables 
 ## 🖼️ Application Demo
 
 ### 🏠 Home Interface
-![Home UI](assets/dashboard.png)
+![Home UI](Assets/dashboard.png)
 
 ### 📂 Document Upload Section
-![Upload Section](assets/PDF_file.png)
+![Upload Section](Assets/PDF_file.png)
 
 ### 💬 Question Answering Output
-![Answer Output](assets/Image_file.png)
+![Answer Output](Assets/Image_file.png)
 
 ### 🧠 System Architecture
-![Architecture](assets/Image_audio_file.png)
+![Architecture](Assets/Image_audio_file.png)
 
 ---
 
