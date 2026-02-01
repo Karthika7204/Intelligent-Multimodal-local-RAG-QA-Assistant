@@ -93,6 +93,7 @@ pip install -r requirements.txt
 ## ▶️ Running the Application
 
 ```bash
+python embed_server.py
 streamlit run sapp.py
 ```
 
